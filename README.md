@@ -1,5 +1,8 @@
 
 
-  <img src="lhttps://consumersiteimages.trustpilot.net/business-units/6846c4bd2f7e44f18017a6b1-198x149-1x.preview" alt="Company Logo" width="200"/>
+<p align="center">
+  <img src="https://consumersiteimages.trustpilot.net/business-units/6846c4bd2f7e44f18017a6b1-198x149-1x.preview" alt="Company Logo" width="200"/>
+</p>
 
 # Interview-Scheduling-Tool
+
